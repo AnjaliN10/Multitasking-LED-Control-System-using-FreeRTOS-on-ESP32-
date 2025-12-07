@@ -26,5 +26,3 @@ The goal is to illustrate how embedded systems handle concurrent workloads using
 
 
 
-## 📁 Project Structure
-
