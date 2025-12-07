@@ -8,8 +8,6 @@
  *  - This version is designed for demonstration/documentation purposes.
  *  - Instead of toggling real GPIO pins, it prints log messages to
  *    represent LED ON/OFF events and task execution timing.
- *
- * This makes the repository useful even without physical hardware.
  */
 
 #include <stdio.h>
